@@ -1,0 +1,4 @@
+name = "SomePackage"
+uuid = "80012340-222c-451c-83fa-0fe2b2f6ced4"
+authors = ["Lasse Peters<lasse.peters@mailbox.org>"]
+version = "0.1.0"
